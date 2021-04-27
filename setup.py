@@ -18,7 +18,7 @@ setuptools.setup(
         "category-encoders>=2.2.2",
         "matplotlib>=3.3.0",
         "numpy>=1.19.0",
-        "pandas==1.0.0",
+        "pandas>=1.0.0",
         "scikit-learn>=0.23.0",
         "scipy>=1.5.2",
         "seaborn>=0.11.1"
